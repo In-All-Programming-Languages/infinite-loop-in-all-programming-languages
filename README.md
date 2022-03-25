@@ -15,17 +15,17 @@
   
 # 💡 Features
 1. Simple and straightforward codes, to be understandable for any developer.
-2. It's save to use **ONE** language at the same time.
+2. It's safe to use **ONE** language at the same time.
   
 ---
   
 # 🤝 Contribution
-1. If there's a language -that's not added and- you want to add  it, you can by making a pull requist
+1. If there's a language -that's not added and- you want to add  it, you can by making a pull request
     - Fork this repo.
     - Add the file with the code (It **must** be infinity loop).
     - Add the commit `➕ Add: [Language] loop`.
     - Pull re quist the changes with mentioning the loop you used (for, while, do..while).
-2. If there's any error or problem with the current codes **don't pull requist the solution** you only can report the issue to us to solve it.
+2. If there's any error or problem with the current codes **don't pull request the solution** you only can report the issue to us to solve it.
   
 ---
 
