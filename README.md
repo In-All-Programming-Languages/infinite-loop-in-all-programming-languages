@@ -29,5 +29,5 @@
   
 ---
 
-<h4 align="center"> Made With ❤️ in IRAQ , Baghdad & Egypt , Cairo</h4>
+<h4 align="center"> Made With ❤️ in Baghdad, Iraq 🇮🇶 & Cairo, Egypt 🇪🇬</h4>
 <h6 align="center">  ©️ all Copyrights reserved to <a href="https://www.mohadev69.xyz">MohaDev69</a> - 2022 | MIT License </h6>
