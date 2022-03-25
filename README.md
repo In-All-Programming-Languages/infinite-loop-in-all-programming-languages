@@ -1,26 +1,33 @@
-<h1> ✨ About this repo: </h1>
-<h2> This repo has been created by <a href="https://discord.com/users/667753369858736148">MohaDev69</a> & <a href="https://discord.com/users/542750889769828383">AbdelrahmanDwedar</a>
-<center>
-<h4 style="color: red;">Note: This repo still under development.</h4>
-<hr style="width: 80%; border-radius: 20px;"/>
-</center>
-<h1> 🛠️ Somethings you need to know: </h1>
-<h4 style="color: red;"> 1. Running this repo with <span style="color: yellow;">all</span> this loops may broke your device or explode your cpu , i'm not responsible about illegal using for this repo. </h4>
-<h4 style="color: yellow;"> 2. This repo is not for commercial purposes. </h4>
-<h4 style="color: yellow;"> 3. This repo is not for illegal purposes. </h4>
-<h4 style="color: yellow;"> 4. This repo is not for pirated & hacking purposes. </h4>
-<h4 style="color: yellow;"> 5. This repo is not for selling purposes. </h4>
-<center><hr style="width: 80%; border-radius: 20px;"/></center>
-<h1> ☘️ Features: </h1>
-<h4 style="color: green;"> 1. this repo does not have script to run all loops , <span>to avoid cpu explode.</span> </h4>
-<h4 style="color: green;"> 2. all included language are easy to read and learn.</h4>
-<h4 style="color: green;"> 3. easy to try the code , just install the compiler and run it without any <span style="color: yellow;">third party librares or packages.</h4>
-<center><hr style="width: 80%; border-radius: 20px;"/></center>
-<h1> 🫂 Contribution: </h1>
-<h4 style="color: green;"> 1. if you have any other language to add , clone the repo , and add the language , <span style="color: yellow;">open pull request when you finish.</h4>
-<h4 style="color: green;"> 2. any improves to any exist language will got rejected</h4>
-<center><hr style="width: 80%; border-radius: 20px;"/></center>
-<center>
-<h4> ©️ all Copyrights reserved to <a href="https://www.mohadev69.xyz">MohaDev69</a> - 2022 | MIT License</h4>
-<h4> Made With ❤️ in IRAQ , Baghdad & Egypt , Cairo</h4>
-</center>
+# ✨ About This Repo
+<h3 align="center"> This repo has been created by <a src="https://github.com/MohaDev-69">MohaDev69</a> & <a src="https://github.com/AbdelrahmanDwedar/">AbdelrahmanDwdar</a>. <h3>
+  
+<h6 align="center"> ✍️ <b>Note</b>: this repo is still under development. <h6>
+  
+---
+
+# ℹ️ Needed Information
+1. **We're not responsible for any harm for your drivce caused by using this repo on it.** ⚠️
+2. **This repo isn't for any hacking or mialwaring perpose**, and any use of it as so; we're not responsible of. ⚠️
+3. This repo isn't for any selling porposes. 🚫
+<h3 align="center"> ⚠️ We completely disclaim all liability for any illegal use of this repo, whether or not mentioned here ⚠️ </h3>
+
+---
+  
+# 💡 Feacures
+1. Simple and straightforward codes, to be understandable for any developer.
+2. It's save to use **ONE** language at the same time.
+  
+---
+  
+# 🤝 Contribution
+1. If there's a language -that's not added and- you want to add  it, you can by making a pull requist
+    - Fork this repo.
+    - Add the file with the code (It **must** be infinity loop).
+    - Add the commit `➕ Add: [Language] loop`.
+    - Pull re quist the changes with mentioning the loop you used (for, while, do..while).
+2. If there's any error or problem with the current codes **don't pull requist the solution** you only can report the issue to us to solve it.
+  
+---
+
+<h4 align="center"> Made With ❤️ in IRAQ , Baghdad & Egypt , Cairo</h4>
+<h6 align="center">  ©️ all Copyrights reserved to <a href="https://www.mohadev69.xyz">MohaDev69</a> - 2022 | MIT License </h6>
