@@ -13,7 +13,7 @@
 
 ---
   
-# 💡 Feacures
+# 💡 Features
 1. Simple and straightforward codes, to be understandable for any developer.
 2. It's save to use **ONE** language at the same time.
   
