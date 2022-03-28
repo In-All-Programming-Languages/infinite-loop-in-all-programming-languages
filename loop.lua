@@ -1,9 +1,9 @@
 local i = 0
 
-while ( true )
+while (true)
 do 
-    i = i + 1;
     print(i);
+    i = i + 1;
     
 end
     
