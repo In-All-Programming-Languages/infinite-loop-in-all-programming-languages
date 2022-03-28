@@ -1,5 +1,3 @@
-let i=0;
-while(true){
-i++;
-console.log(i);
+for (let i = 0;; i++) {
+    console.log(i);
 }
