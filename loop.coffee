@@ -1,4 +1,5 @@
-i = 0;
-while true
-    console.log i;
-    i++;
+i = 0
+
+for (i = 0;; i++)
+    console.log(i)
+    i+=1
