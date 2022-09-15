@@ -1,6 +1,7 @@
 let i=0
-while :
+
+while true
 do
-let i++
+    let i++ 
 	echo $i
 done
