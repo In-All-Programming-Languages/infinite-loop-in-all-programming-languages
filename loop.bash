@@ -1,7 +1,7 @@
-let i=0
+#!/bin/bash
 
 while true
 do
-    let i++ 
-	echo $i
+  (( i++ ))
+  echo $i
 done
