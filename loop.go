@@ -1,8 +1,12 @@
 package main
+
 import "fmt"
 
 func main() {
-	for i := 0;; i++ {
+	i := 0
+
+	for true {
 		fmt.Println(i)
+		i++
 	}
 }
