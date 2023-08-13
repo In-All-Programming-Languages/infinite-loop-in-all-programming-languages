@@ -1,3 +1,3 @@
-for (let i = 0;; i++) {
+for (let i: Number = 0;; i++) {
     console.log(i);
 }

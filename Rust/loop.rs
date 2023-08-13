@@ -1,8 +1,9 @@
 fn main() {
-  let mut i = 0;
+    let mut i = 0;
 
-  loop {
-    println!("{}", i);
-    i += 1;
-  }
+    loop {
+        println!("{}", i);
+        i += 1;
+    }
 }
+

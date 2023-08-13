@@ -1,7 +1,6 @@
 #!/bin/bash
 
-while true
-do
-  (( i++ ))
-  echo $i
+while true; do
+    (( i++ ))
+    echo $i
 done
