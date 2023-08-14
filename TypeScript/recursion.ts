@@ -1,4 +1,4 @@
-const rec = (n: number) => {
+function rec (n: number) {
   let i = n;
   console.log(i);
   rec(++i);
